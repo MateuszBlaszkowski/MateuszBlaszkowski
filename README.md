@@ -1,4 +1,4 @@
-# Hey 👋
+# Hi there 👨‍💻
 I'am Mateusz - passionate of programming and new technologies<br>
 
 Currently studying at Polish-Japanese Academy of Information Technology in Warsaw<br>
@@ -35,4 +35,5 @@ Here are some ideas to get you started:
 - My developer journey
 
 ### 🌐 Find me on web
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png" height="16" /> www.linkedin.com/in/mateusz-błaszkowski-60abb837b
+
+&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png" height="16" />&nbsp; www.linkedin.com/in/mateusz-błaszkowski-60abb837b
