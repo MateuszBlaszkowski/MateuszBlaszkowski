@@ -1,5 +1,3 @@
-<img src="./network-4636686_19202.jpg" height="160"/>
-
 # Hi there 👨‍💻
 I'am Mateusz - passionate of programming and new technologies<br>
 
